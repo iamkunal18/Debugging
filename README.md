@@ -28,6 +28,7 @@
 * Can be caught with assert
 
 
+## Debugging Techniques and tricks
 * Warning all -> g++ -Wall -o main main.cpp
 * Related to datatypes conversion ->  g++ -Wconversion -o main main.pp
 * Warning as error ->  g++ -Werror -o main main.cpp
